@@ -6,8 +6,8 @@ Empezando proyecto
 
 ====
 
-URL: www.terratunning.com
+URL: www.terratuning.com
 
-Founder : Alex Rey
+Founder : Alexito Rey
 
 Webmaster: Alan
